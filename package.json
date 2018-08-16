@@ -1,0 +1,22 @@
+{
+  "name": "currency_converter_2",
+  "version": "1.0.0",
+  "description": "A Simple Progressive Web App using a currency conversion api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samlan/currency_converter_2.git"
+  },
+  "author": "Sam Lando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samlan/currency_converter_2/issues"
+  },
+  "homepage": "https://github.com/samlan/currency_converter_2#readme",
+  "dependencies": {
+    "idb": "^2.1.3"
+  }
+}
